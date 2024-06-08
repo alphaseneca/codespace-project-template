@@ -26,7 +26,6 @@ const Header = () => {
       <a href="#portfolio">Portfolio</a>
       <a href="#education">Education</a>
       <a href="#footer">Contact</a>
-      
     </div>
   );
 };

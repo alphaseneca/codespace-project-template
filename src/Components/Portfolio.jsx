@@ -31,29 +31,24 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "stairlight_controller",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "An open-source project for a Two-Way PIR Stair light Controller.",
+    url: "https://github.com/alphaseneca/stairlight_controller",
   },
   {
-    title: "Web Development for Beginners",
+    title: "8-bit_adder_subtractor",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "An 8-bit adder/subtractor circuit implemented using logic gates IC for arithmetic operations.",
+    url: "https://github.com/alphaseneca/8-bit_adder_subtractor",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created from Microsoft's resume workshop and deployed to Azure Static Web Apps. Includes my experience and design abilities.",
+    url: "https://green-desert-0efe4b800.5.azurestaticapps.net/",
   },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
-  },
+
 ];
 
 const Portfolio = () => {
