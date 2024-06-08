@@ -32,8 +32,7 @@ const imageAltText = "desktop with books and laptop";
 const projectList = [
   {
     title: "stairlight_controller",
-    description:
-      "An open-source project for a Two-Way PIR Stair light Controller.",
+    description: "An open-source project for a Two-Way PIR Stair light Controller.",
     url: "https://github.com/alphaseneca/stairlight_controller",
   },
   {
@@ -48,7 +47,6 @@ const projectList = [
       "Created from Microsoft's resume workshop and deployed to Azure Static Web Apps. Includes my experience and design abilities.",
     url: "https://green-desert-0efe4b800.5.azurestaticapps.net/",
   },
-
 ];
 
 const Portfolio = () => {
